@@ -1,0 +1,6 @@
+Model Comparison:
+Model                Accuracy   F1-Score   Parameters  
+----------------------------------------------------
+Teacher (BERT)       0.9375    0.9373    109,485,316
+Baseline Student     0.9470    0.9470    66,956,548
+Distilled Student    0.9449    0.9448    66,956,548
