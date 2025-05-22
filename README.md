@@ -54,8 +54,8 @@ accelerate==0.25.0
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/kevin-mlengineer/model-finetuning.git
+cd model-finetuning
 ```
 
 2. Create a virtual environment:
@@ -77,7 +77,6 @@ pip install -r requirements.txt
 
 ## Code Structure
 
-### Main Components
 
 1. **Data Loading and Preparation** (`load_and_prepare_data`):
    - Loads the AG News dataset
